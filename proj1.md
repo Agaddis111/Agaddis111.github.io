@@ -4,6 +4,6 @@ title: "Projects"
 permalink: /project/
 ---
 
-[Bit Clicker](/bc/)
+[Broombot Battle grounds](/bc/)
+[Doc's Shufflin' Shootout](/bc/)
 
-More to come!

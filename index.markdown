@@ -5,14 +5,14 @@
 layout: home
 ---
 
-Hi! I'm Andrew Fei.
+Howdy I am Adam Gaddis.
 
-Currently a full time Software Engineer at Epic Systems. (Very) amateur artist and piano player.
+I am a freelance Game designer, Programmer and 3D Artist.
 
 ![image](images/me.png)
 
                          ^
                          |
-That's me! Up there!
+
 
 If you want to learn more [Click Here](/about)
