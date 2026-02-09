@@ -15,3 +15,6 @@ permalink: /work/
 - 2020-2021
   - Lead Programmer Hallways 
     - This was created using an earlier FPS character for a surreal horror game involving opening doors in a hallway
+- 2017-Present
+  - Supervisor at Jewel Osco
+    - Handled refunds, issues with customer orders, addressing and placing work tickets for malfunctioning equipment including Computers, Registers, Receipt printers and the Jewel Osco app. 
