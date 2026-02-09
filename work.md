@@ -3,19 +3,15 @@ layout: page
 title: Current (and Past) Work Experiences
 permalink: /work/
 ---
-- 
-  - "Full" Stack Software Engineer @ Epic Systems
-    - Mostly focused on backend work creating tools to help hospital tackle the challenge that is Population Health
-      - Bulk Flat File Filing
-        - Help enhance functionality to allow millions of lines of raw data filed directly into Epic
-- Summer 2021 - Summer 2022
-  - Research assistant for [Matthew Caesar](https://caesar.web.engr.illinois.edu/)
-- Summer-Winter 2020
-  - Ameren Co-op
-- Fall 2019-Spring 2020
-  - CS 126 (Software Studio Design) CA
-- Summer 2019
-  - NSLC Cybersecurity Assistant Team Advisor
-  - Math 241 (Calculus III) NetMath CA
-- Spring-Fall 2019
-  - CS 125 (Introduction to Computer Science) CA
+- December 2024-Present
+  - Lead Programmer and Designer For Doc's Shufflin' Shootout 
+    - Created Player movement, shooting, enemy and card mechanics 
+      - Made in the Unity 6 Game engine for the Indie City Jampus game jam
+        - Won 4th overall with #1 in art
+- January 2022-July of 2023
+  - Principle 3D artist for Broombot Battlegrounds
+     - Created solid meshes in the 3D modeling software Blender for use as props in levels, weapons for the broombots, and broombot Bodies
+        - Game created in the Unreal Engine to have been self published on the game distribution platform, Steam.
+- 2020-2021
+  - Lead Programmer Hallways 
+    - This was created using an earlier FPS character for a surreal horror game involving opening doors in a hallway
