@@ -4,6 +4,6 @@ title: "Projects"
 permalink: /project/
 ---
 
-[Broombot Battle grounds](/bc/)
-[Doc's Shufflin' Shootout](/bc/)
+[Broombot Battle grounds](/BBG/)
+[Doc's Shufflin' Shootout](/DSSO/)
 

@@ -1,10 +1,11 @@
 ---
-title: "Bit Clicker"
-permalink: /bc/
+title: "Broombot Battlegrounds"
+permalink: /BBG/
 ---
 
-[Based on the hit browser game Cookie Clicker](https://orteil.dashnet.org/cookieclicker/), this was my final project for CS 126.
+[Purchase the game on steam here!](https://store.steampowered.com/app/2262620/Broombot_Battlegrounds/), this was my capstone project for DePaul University.
 
-![image](images/final_proj.png)
+![image](images/BBG.jpeg)
 
-Project I worked on for a few weeks at the end of my freshman year. Utilizing several different OpenFramework modules, such as the visual and JSON ones, I was able to create all the functionality necessary for a game, such as a UI and save/load functions.
+This was a commercially released project on steam meant to simulate a game development studio enviroment. In this project i was tasked with creating level props, Weapons, and Broombot Bodies. Production on this project went as far as going to conventions like Pax East, M+Dev and being featured on IndieCade Horizons in 2022. This project was supposed to see a port to the Nintendo Switch and a overall rebuild of the game including heavy optimization work both in the game's visuals, and performance. Despite not being in a predominantly code based role techniques involving lower level code optimizations in a practical software setting are something that i understand how to do and have applied to future projects!.
+This was a team based project starting off at 11 people before slowly dropping down to 5 core team members. 1 Designer, 1 Producer, 2 Programers and 1 Artist. Despite the roles one of the programmers was also the primary 2D artist. 
