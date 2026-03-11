@@ -9,7 +9,7 @@ Howdy I am Adam Gaddis.
 
 I am a freelance Game designer, Programmer and 3D Artist.
 
-![image](images/me.png)
+![image](images/me.jpg)
 
                          ^
                          |

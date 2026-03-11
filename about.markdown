@@ -28,9 +28,9 @@ The following are technology related fields I am currently interested in:
 
 
 Some Fun Facts about me. Updated - 26/5/2025:
-- Favorite Song: [Somniomancer](https://open.spotify.com/track/5oCptG3RbPTbXKFpVjUgmw)
+- Favorite Song: [Dead Heat Pulse by Heaven Pierce her ](https://open.spotify.com/track/24R7ETFVeylaWmWQIphsf0)
 - Favorite Movie: [Godzilla Minus One](https://www.netflix.com/title/81767635)
-- Favorite TV Show: [Interior Chinatown](https://www.hulu.com/series/interior-chinatown-52c074a7-5680-4f60-9b7e-a6008238207d)
+- Favorite TV Show: [Neon Genesis Evangelion](https://www.netflix.com/title/81033445)
 
 
 
